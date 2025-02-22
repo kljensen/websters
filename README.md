@@ -11,7 +11,7 @@ converted the dictionary to a tab separated format (TSV)
 using [pyglossary](https://github.com/ilius/pyglossary).
 I hope it is useful for others.
 
-# Accessing the data
+## Accessing the data
 
 Download the zip from this archive and unzip as you wish to
 get the tsv. You can query using a variety of tools. E.g. this
