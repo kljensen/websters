@@ -6,11 +6,9 @@
 I started using this dictionary after read
 James Somers' enjoyable article
 [You’re probably using the wrong dictionary](https://jsomers.net/blog/dictionary).
-
 I found need for formats other than stardict and so
 converted the dictionary to a tab separated format (TSV)
 using [pyglossary](https://github.com/ilius/pyglossary).
-
 I hope it is useful for others.
 
 # Accessing the data
