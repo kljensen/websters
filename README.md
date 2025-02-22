@@ -25,6 +25,21 @@ D select * from "websters-1913-1828.tsv" where word = 'Beautiful';
 └───────────┴────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
+The definitions are in plaintext like this, for "Desireous":
+
+```
+Desirous \De*sir"ous\, a. [F. d['e]sireux, OF. desiros, fr.
+   desir. See {Desire}, n.]
+   Feeling desire; eagerly wishing; solicitous; eager to obtain;
+   covetous.
+
+         Jesus knew that they were desirous to ask him. --John
+                                                  xvi. 19.
+
+         Be not desirous of his dainties.         --Prov. xxiii.
+                                                  3.
+```
+
 ## License
 
 That dictionary is pre-1928 and so in the public domain in the
