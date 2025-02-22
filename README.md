@@ -1,4 +1,7 @@
-# Webster's Revised Unabridged Dictionary (1913 + 1828) 📚💾
+<h1 align="center">
+  Webster's Revised Unabridged Dictionary
+  <br>(1913 + 1828)
+</h1>
 
 I started using this dictionary after read
 James Somers' enjoyable article
